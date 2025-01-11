@@ -594,7 +594,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_SESSION['admin'])) {
                     <div class="contact-info">
                         <div class="contact-item">
                             <a style="display: inline-block; margin-right: 5px; white-space: nowrap; font-weight: bold;">Địa chỉ:</a>
-                            <p style="display: inline-block; margin: 0; white-space: nowrap;">Xã Phong Phú, Huyện Cầu Kè, Tỉnh Trà Vinh</p>
+                            <p style="display: inline-block; margin: 0; white-space: nowrap;">Xã Phong Phú, Huyện Cầu Kè, Thành phố Trà Vinh</p>
                         </div>
                         <div class="contact-item">
                             <a style="display: inline-block; margin-right: 5px; white-space: nowrap; font-weight: bold;">Số điện thoại:</a>
