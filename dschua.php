@@ -704,7 +704,7 @@ $stmt->close();
                     <div class="contact-info">
                         <div class="contact-item">
                             <a style="display: inline-block; margin-right: 5px; white-space: nowrap;">Địa chỉ:</a>
-                            <p style="display: inline-block; margin: 0; white-space: nowrap; color: #000000;">Xã Phong Phú, Huyện Cầu Kè, Tỉnh Trà Vinh</p>
+                            <p style="display: inline-block; margin: 0; white-space: nowrap; color: #000000;">Xã Phong Phú, Huyện Cầu Kè, Thành phố Trà Vinh</p>
                         </div>
                         <div class="contact-item">
                             <a style="display: inline-block; margin-right: 5px;">Số điện thoại:</a>
